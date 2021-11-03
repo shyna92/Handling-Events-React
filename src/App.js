@@ -14,7 +14,7 @@ const App=()=> {
     setname("yo 🐺");
   }
   const bgback=()=>{
-    setbg("yellow");
+    setbg("purple");
     setname("click Me");
   }
 
